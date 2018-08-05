@@ -1,0 +1,3 @@
+[submodule "tfjs-core"]
+	path = tfjs-core
+	url = https://github.com/kelvinhongkjy/tfjs-core.git
