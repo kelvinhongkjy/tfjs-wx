@@ -4,3 +4,6 @@
 [submodule "tfjs-layers"]
 	path = tfjs-layers
 	url = https://github.com/kelvinhongkjy/tfjs-layers.git
+[submodule "tfjs"]
+	path = tfjs
+	url = https://github.com/tensorflow/tfjs.git
